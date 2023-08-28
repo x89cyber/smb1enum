@@ -12,4 +12,4 @@ smbclient -L [ip]
 Modify the "shares" array to include other common names.
 
 Usage:
-smb1enum.sh <ip> [port]
+smb1enum.sh [ip] [optional: port]
